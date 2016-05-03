@@ -10,8 +10,9 @@ Buatlah sebuah program yang menggunakan konsep Polimorfisme,<br>
 [Bangunan 2 Dimensi dan 3 Dimensi harus di implementasikan]<br>
 <br>
 <br>
-Hint 	: Bangunan	->Lingkaran<br>
-	              	->Bola <br>
+Hint 	: Bangunan<br>
+->Lingkaran<br>
+->Bola <br>
 Catatan	:<br>
 Program yang di buat bebas asal sesuai syarat di atas.<br>
 Program terbaik mendapat nilai tambahan + 5 pada latihan bab ini.<br>
