@@ -12,10 +12,6 @@ public abstract class geometri {
         return luas;
     }
 
-    public abstract double keliling();
-
-    public abstract double volume();
-
     public double Show() {
         return getLuas();
     }
